@@ -1,1 +1,1 @@
-export const Backendapi = "http://localhost:7200"
+export const Backendapi = "https://backend-blog-website-uhuw.onrender.com"
